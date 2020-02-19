@@ -4,7 +4,7 @@
     <list default="true" id="e282cee1-bfe9-42a3-9794-9633eb4654d1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/ConwayGameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/ConwayGameOfLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zipcodeconway/ConwayGameOfLifeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zipcodeconway/ConwayGameOfLifeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/SimpleWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodeconway/SimpleWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ConwayGameOfLifeTest">
+  <component name="RunManager" selected="Application.ConwayGameOfLife">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -241,8 +241,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConwayGameOfLifeTest" />
         <item itemvalue="Application.ConwayGameOfLife" />
+        <item itemvalue="JUnit.ConwayGameOfLifeTest" />
         <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest2" />
         <item itemvalue="JUnit.ConwayGameOfLifeTest.runTest1" />
         <item itemvalue="JUnit.ConwayGameOfLifeTest.test3" />
@@ -261,7 +261,7 @@
       <updated>1519668901598</updated>
       <workItem from="1519668902904" duration="14517000" />
       <workItem from="1582048801751" duration="12919000" />
-      <workItem from="1582119983247" duration="5439000" />
+      <workItem from="1582119983247" duration="7883000" />
     </task>
     <servers />
   </component>
@@ -269,49 +269,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1224" height="218" key="GridCell.Tab.0.bottom" timestamp="1582142416618">
+    <state width="1224" height="171" key="GridCell.Tab.0.bottom" timestamp="1582144878288">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1876" height="299" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582142392184" />
-    <state width="1224" height="218" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416618" />
+    <state width="1224" height="171" key="GridCell.Tab.0.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582144878288" />
     <state width="1226" height="172" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582073121280" />
-    <state width="1224" height="218" key="GridCell.Tab.0.center" timestamp="1582142416617">
+    <state width="1224" height="171" key="GridCell.Tab.0.center" timestamp="1582144878287">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1876" height="299" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582142392182" />
-    <state width="1224" height="218" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416617" />
+    <state width="1224" height="171" key="GridCell.Tab.0.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582144878287" />
     <state width="1226" height="172" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1582073121279" />
-    <state width="1224" height="218" key="GridCell.Tab.0.left" timestamp="1582142416616">
+    <state width="1224" height="171" key="GridCell.Tab.0.left" timestamp="1582144878286">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1876" height="299" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582142392181" />
-    <state width="1224" height="218" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416616" />
+    <state width="1224" height="171" key="GridCell.Tab.0.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582144878286" />
     <state width="1226" height="172" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1582073121278" />
-    <state width="1224" height="218" key="GridCell.Tab.0.right" timestamp="1582142416617">
+    <state width="1224" height="171" key="GridCell.Tab.0.right" timestamp="1582144878288">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1876" height="299" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1582142392183" />
-    <state width="1224" height="218" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416617" />
+    <state width="1224" height="171" key="GridCell.Tab.0.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582144878288" />
     <state width="1226" height="172" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1582073121279" />
-    <state width="1224" height="218" key="GridCell.Tab.1.bottom" timestamp="1582142416194">
+    <state width="1224" height="218" key="GridCell.Tab.1.bottom" timestamp="1582142475485">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416194" />
+    <state width="1224" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142475485" />
     <state width="1226" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1582071415276" />
-    <state width="1224" height="218" key="GridCell.Tab.1.center" timestamp="1582142416193">
+    <state width="1224" height="218" key="GridCell.Tab.1.center" timestamp="1582142475483">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.1.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416193" />
+    <state width="1224" height="218" key="GridCell.Tab.1.center/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142475483" />
     <state width="1226" height="218" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1582071415276" />
-    <state width="1224" height="218" key="GridCell.Tab.1.left" timestamp="1582142416193">
+    <state width="1224" height="218" key="GridCell.Tab.1.left" timestamp="1582142475478">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.1.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416193" />
+    <state width="1224" height="218" key="GridCell.Tab.1.left/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142475478" />
     <state width="1226" height="218" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1582071415275" />
-    <state width="1224" height="218" key="GridCell.Tab.1.right" timestamp="1582142416194">
+    <state width="1224" height="218" key="GridCell.Tab.1.right" timestamp="1582142475483">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.1.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142416194" />
+    <state width="1224" height="218" key="GridCell.Tab.1.right/0.23.1280.709/0.-1057.1920.1057@0.23.1280.709" timestamp="1582142475483" />
     <state width="1226" height="218" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1582071415276" />
   </component>
   <component name="XDebuggerManager">

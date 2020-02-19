@@ -56,7 +56,7 @@ public class ConwayGameOfLife {
                 }
             }
             copyAndZeroOut(next, current);
-            this.displayWindow.sleep(50);
+            this.displayWindow.sleep(15);
         }
         this.displayWindow.display(current, curGen);
         curGen = 0;

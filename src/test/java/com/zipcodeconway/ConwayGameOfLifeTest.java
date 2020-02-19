@@ -43,4 +43,5 @@ public class ConwayGameOfLifeTest {
         int[][] results = sim.simulate(10);
         assertTrue(java.util.Arrays.deepEquals(results, expected));
     }
+
 }
